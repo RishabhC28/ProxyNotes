@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Proxy Notes</string>
+    <string-array name="titles">
+        <item>Video 1</item>
+        <item>Video 2</item>
+        <item>Video 3</item>
+        <item>Video 4</item>
+        <item>Video 5</item>
+        <item>Video 6</item>
+        <item>Video 7</item>
+        <item>Video 8</item>
+        <item>Video 9</item>
+        <item>Video 10</item>
+    </string-array>
+    <string-array name="description">
+        <item>Video 1 des</item>
+        <item>Video 2 des</item>
+        <item>Video 3 des</item>
+        <item>Video 4 des</item>
+        <item>Video 5 des</item>
+        <item>Video 6 des</item>
+        <item>Video 7 des</item>
+        <item>Video 8 des</item>
+        <item>Video 9 des</item>
+        <item>Video 10 des</item>
+    </string-array>
+    <string-array name="url">
+        <item>http://proxynotes.com/assignmnet/test.mp4?videoid=0001</item>
+        <item>http://proxynotes.com/assignmnet/test.mp4?videoid=0002</item>
+        <item>http://proxynotes.com/assignmnet/test.mp4?videoid=0003</item>
+        <item>http://proxynotes.com/assignmnet/test.mp4?videoid=0004</item>
+        <item>http://proxynotes.com/assignmnet/test.mp4?videoid=0005</item>
+        <item>http://proxynotes.com/assignmnet/test.mp4?videoid=0006</item>
+        <item>http://proxynotes.com/assignmnet/test.mp4?videoid=0007</item>
+        <item>http://proxynotes.com/assignmnet/test.mp4?videoid=0008</item>
+        <item>http://proxynotes.com/assignmnet/test.mp4?videoid=0009</item>
+        <item>http://proxynotes.com/assignmnet/test.mp4?videoid=0010</item>
+    </string-array>
+    <string-array name="duration">
+        <item>17:32</item>
+        <item>17:32</item>
+        <item>17:32</item>
+        <item>17:32</item>
+        <item>17:32</item>
+        <item>17:32</item>
+        <item>17:32</item>
+        <item>17:32</item>
+        <item>17:32</item>
+        <item>17:32</item>
+    </string-array>
+</resources>
